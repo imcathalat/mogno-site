@@ -58,7 +58,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <h1 class='tit-2'>Engenharia & Consultoria</h1>
-                    <p class="text-justify"> A Mogno Engenharia & Consultoria foi fundada em 1985, com o nome de CVJ - Construtora do Vale do Jequitinhonha Ltda, com objetivo de construtora, porém no seu decorrer passou a empresa de consultoria e prestação de serviços nas áreas de projetos e avaliações de engenharia. Em 2014 a CVJ, torna-se Mogno, e seu objetivo firma na área de prestação de serviços de engenharia, com construções passando a atividades secundárias. Sempre com foco em qualidade e viabilidade econômica. </p>
+                    <p class="text-justify"> A Mogno Engenharia & Consultoria foi fundada em 1985, com o nome de CVJ - Construtora do Vale do Jequitinhonha Ltda, com objetivo de construtora, porém no seu decorrer passou a empresa de consultoria e prestação de serviços nas áreas de projetos e avaliações de engenharia. Em 2014 a CVJ, torna-se Mogno, e seu objetivo firma na área de prestação de serviços de engenharia, e energia solar se torna carro chefe para empresa. Sempre com foco em qualidade e viabilidade econômica.</p>
                     <div class="row">
                         <div class="col-md-6">
                             <h6 class="text-info-def">
@@ -199,8 +199,15 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-bandaid-fill"></i></div>
-              <h4>Instalação de Panéis Solares</h4>
-              <p>A Instalação de Panéis fotovoltaicos visa ......</p>
+              <h4>Energia Solar</h4>
+              <p>Dedicada a reduzir as pegadas de carbono e a promover um futuro mais verde, a nossa equipe de especialistas utiliza tecnologia de ponta para fornecer soluções energéticas limpas, confiáveis e rentáveis para casas, empresas e instalações rurais.</p>
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"><i class="bi bi-bank2"></i></div>
+              <h4>Consultoria Pública</h4>
+              <p>A consultoria pública é a área visa contribuir com o crescimento ordenado dos municípios do norte de Minas, e inicia com diagnóstico das cidades e formulação de soluções de curto, médio e longo prazo nas diversas áreas da engenharia. Gerenciamento e execução de planos diretores, projetos de saneamento básico, pavimentação e equipamentos públicos estão englobadas nesta atividade.</p>
+            </div>
+          </div>
             </div>
           </div>
 
@@ -292,7 +299,7 @@
               class="position-relative overflow-auto mb-4"
               style="border-radius: 100%"
             >
-              <img class="img-fluid w-100" src="{{asset('img/resp-1.png')}}" alt="" />
+              <img class="img-fluid w-100" src="{{asset('img/guilherme.png')}}" alt="" />
             </div>
             <h4 class="text-white">Guilherme Sales</h4>
             <h5 class="text-white">Engenheiro Civil</h5>
@@ -389,7 +396,7 @@
             <a
               class="btn btn-outline rounded-circle text-center mr-2 px-0 redes"
               style="width: 38px; height: 38px"
-              href="https://www.instagram.com/eng.guilherme_sales/" target="blank"
+              href="https://www.instagram.com/mogno_engenhariacivil/" target="blank"
               ><i class="bi bi-instagram"></i></a>
               <a
               class="btn btn-outline rounded-circle text-center mr-2 px-0 redes"
@@ -417,7 +424,7 @@
           <div class="d-flex">
             <h4 class="fa fa-phone-alt text-primary"></h4>
             <div class="pl-3">
-              <h5 class="text-white">Phone</h5>
+              <h5 class="text-white">Telefone</h5>
               <p>(33) 9 8714-7718</p>
             </div>
           </div>
