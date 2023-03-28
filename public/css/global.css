@@ -317,11 +317,7 @@ i {
   .img-choose {
     width: 80%;
   }
-  @media (max-width: 480px) {
-    img-choose {
-      width: 100%;
-    }
-  }
+  
 
  /*Our time*/
  .barra-2 {
