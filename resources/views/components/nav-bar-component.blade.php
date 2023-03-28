@@ -83,8 +83,13 @@
           <span>Mogno</span>
         </a>
         <button
-        class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" 
-        aria-label="Toggle navigation"
+        class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbar-items"
+          aria-controls="navbar-items"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
         >
           <i class="bi bi-list"></i>
         </button>

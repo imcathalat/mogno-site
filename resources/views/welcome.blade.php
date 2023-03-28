@@ -422,7 +422,9 @@
         </div>
         <div class="col-lg-2 col-md-6 mb-5 text-center">
           <h3 class="text-primary mb-4 text-white ">Localização</h3>
-          <iframe class="localizacao" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3831.8043355230616!2d-40.69825868522131!3d-16.179037536842895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x74979980d2a15db%3A0x8d6c2b7dfc347aeb!2sR.%20Aleixo%20Paraguass%C3%BA%2C%20454%20-%20centro%2C%20Almenara%20-%20MG%2C%2039900-000!5e0!3m2!1spt-BR!2sbr!4v1678475609576!5m2!1spt-BR!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <div class="container-iframe">
+            <iframe class="localizacao responsive-iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3831.8043355230616!2d-40.69825868522131!3d-16.179037536842895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x74979980d2a15db%3A0x8d6c2b7dfc347aeb!2sR.%20Aleixo%20Paraguass%C3%BA%2C%20454%20-%20centro%2C%20Almenara%20-%20MG%2C%2039900-000!5e0!3m2!1spt-BR!2sbr!4v1678475609576!5m2!1spt-BR!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
         </div>
       </div>
       <div
