@@ -164,8 +164,8 @@
 #navbar-items .navbar-nav {
   display: flex;
   justify-content: right;
-  width: 100%;
-  background-color: #2F4207;
+  max-width: 100%;
+  background-color: #2F4207 !important;
 }
 
 #navbar-items .nav-item {
@@ -181,7 +181,7 @@
     padding-left: 8em;
 }
 .header {
-    height: 45rem;
+    height: 42rem;
     padding: 7%;
     color: #050505;
     margin-top: 8%;
