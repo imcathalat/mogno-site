@@ -154,12 +154,12 @@
         </div> 
 -->
         <!--Serviços-2-->
-<div class="barra" id="services">
+<div class="barra" id="services" >
   <section class="services">
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
-        <h2>Nossos Serviços</h2>
+        <h2 >Nossos Serviços</h2>
         <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
       </div>
 
