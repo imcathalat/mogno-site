@@ -315,7 +315,12 @@ i {
     color: white;
   }
   .img-choose {
-    height: 400px;
+    width: 80%;
+  }
+  @media (max-width: 480px) {
+    img-choose {
+      width: 100%;
+    }
   }
 
  /*Our time*/
