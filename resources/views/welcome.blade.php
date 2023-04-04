@@ -17,7 +17,10 @@
     <!--CSS do projeto-->
     <link href="{{asset('css/global.css')}}" rel="stylesheet" type="text/css" />
     <!--Favicon-->
-    <link rel="shortcut icon" href="{{asset('img/favicon.ico')}}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{asset('img/favicon/favicon.ico')}}" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('img/favicon/apple-touch-icon.png')}}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{asset('img/favicon/favicon-32x32.png')}}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{asset('img/favicon/favicon-16x16.png')}}">
 
   <style>
     #navbar-items {
