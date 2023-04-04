@@ -115,7 +115,7 @@
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item rounded overflow-hidden">
-                        <img class="img-fluid" src="{{asset('img/know-how/7-yamana.jpg')}}" alt="">
+                        <img class="img-fluid" src="{{asset('img/know-how/7-yamana.JPG')}}" alt="">
                         <div class="position-relative p-4 pt-0">
                             <h4 class="mb-3 mt-3">Yamana Gold Inc.</h4>
                             <p>Empresa: M.Roscoe</p>
@@ -145,7 +145,7 @@
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item rounded overflow-hidden">
-                        <img class="img-fluid" src="{{asset('img/know-how/10-sre.jpg')}}" alt="">
+                        <img class="img-fluid" src="{{asset('img/know-how/10-sre.JPG')}}" alt="">
                         <div class="position-relative p-4 pt-0">
                             <h4 class="mb-3 mt-3">Superindência de Ensino de Almenara</h4>
                             <p>Empresa: Minas Gerais Serviços S/A.</p>
