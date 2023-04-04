@@ -83,15 +83,15 @@
 
       <div class="section-title">
         <h2 >Nossos Serviços</h2>
-        <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+        <p>Somos uma empresa especializada em diversos serviços e buscamos fazer uso cada vez mais de tecnologias modernas para nossos clientes.</p>
       </div>
 
       <div class="row">
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
           <div class="icon-box">
             <div class="icon"><i class="bi bi-mortarboard-fill"></i></div>
-            <h4>Projetos Civis</h4>
-            <p>A atividade de projetos refere-se ao gerenciamento e execução de projetos arquitetônicos, fundações, estruturais e complementares. Sempre com excelência nesta etapa decisiva.</p>
+            <h4>Energia Solar</h4>
+              <p>Dedicada a reduzir as pegadas de carbono e a promover um futuro mais verde, a nossa equipe de especialistas utiliza tecnologia de ponta para fornecer soluções energéticas limpas, confiáveis e rentáveis para casas, empresas e instalações rurais.</p>
           </div>
         </div>
 
@@ -114,22 +114,14 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-bank2"></i></div>
-              <h4>Consultoria Pública</h4>
-              <p>A consultoria pública é a área visa contribuir com o crescimento ordenado dos municípios do norte de Minas, e inicia com diagnóstico das cidades e formulação de soluções de curto, médio e longo prazo nas diversas áreas da engenharia. Gerenciamento e execução de planos diretores, projetos de saneamento básico, pavimentação e equipamentos públicos estão englobadas nesta atividade.</p>
+              <h4>Projetos Civis</h4>
+              <p>A atividade de projetos refere-se ao gerenciamento e execução de projetos arquitetônicos, fundações, estruturais e complementares. Sempre com excelência nesta etapa decisiva.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-bandaid-fill"></i></div>
-              <h4>Energia Solar</h4>
-              <p>Dedicada a reduzir as pegadas de carbono e a promover um futuro mais verde, a nossa equipe de especialistas utiliza tecnologia de ponta para fornecer soluções energéticas limpas, confiáveis e rentáveis para casas, empresas e instalações rurais.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="bi bi-bank2"></i></div>
               <h4>Consultoria Pública</h4>
               <p>A consultoria pública é a área visa contribuir com o crescimento ordenado dos municípios do norte de Minas, e inicia com diagnóstico das cidades e formulação de soluções de curto, médio e longo prazo nas diversas áreas da engenharia. Gerenciamento e execução de planos diretores, projetos de saneamento básico, pavimentação e equipamentos públicos estão englobadas nesta atividade.</p>
             </div>
