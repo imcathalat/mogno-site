@@ -110,24 +110,25 @@
               <p>A avaliação imobiliária é uma atividade regulamentada pelo CREA e ABNT, sendo uma área ampla com estratégias precisas para a busca de valores de mercado. São várias as finalidades de uma avaliação imobiliária e incluiu valor de venda, compra, partilha de bens, regularização, hipoteca, valor de locação, e etc. Realizamos analise minuciosa do mercado afim de obter resultados precisos.</p>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="bi bi-bank2"></i></div>
-              <h4>Projetos Civis</h4>
-              <p>A atividade de projetos refere-se ao gerenciamento e execução de projetos arquitetônicos, fundações, estruturais e complementares. Sempre com excelência nesta etapa decisiva.</p>
-            </div>
+          
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+                <div class="icon-box">
+                  <div class="icon"><i class="bi bi-bank2"></i></div>
+                  <h4>Projetos Civis</h4>
+                  <p>A atividade de projetos refere-se ao gerenciamento e execução de projetos arquitetônicos, fundações, estruturais e complementares. Sempre com excelência nesta etapa decisiva.</p>
+                </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="bi bi-bandaid-fill"></i></div>
-              <h4>Consultoria Pública</h4>
-              <p>A consultoria pública é a área visa contribuir com o crescimento ordenado dos municípios do norte de Minas, e inicia com diagnóstico das cidades e formulação de soluções de curto, médio e longo prazo nas diversas áreas da engenharia. Gerenciamento e execução de planos diretores, projetos de saneamento básico, pavimentação e equipamentos públicos estão englobadas nesta atividade.</p>
-            </div>
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box">
+                  <div class="icon"><i class="bi bi-bandaid-fill"></i></div>
+                  <h4>Consultoria Pública</h4>
+                  <p>A consultoria pública é a área visa contribuir com o crescimento ordenado dos municípios do norte de Minas, e inicia com diagnóstico das cidades e formulação de soluções de curto, médio e longo prazo nas diversas áreas da engenharia. Gerenciamento e execução de planos diretores, projetos de saneamento básico, pavimentação e equipamentos públicos estão englobadas nesta atividade.</p>
+                </div>
+              </div>
           </div>
       </div>
-    </div>
+    
   </section>
 </div>
 
